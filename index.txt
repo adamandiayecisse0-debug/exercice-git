@@ -1,2 +1,3 @@
 "Bonjour Git !" 
 "Deuxi‚me ligne ajout‚e." 
+"Troisi‚me ligne pour tester." 
